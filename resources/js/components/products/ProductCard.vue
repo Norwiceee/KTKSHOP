@@ -14,7 +14,11 @@
                 <div :id="`contentVisible${product.id}`">
                     <h5 class="mt-2 mb-0">{{ product.price.slice(0, -3) }} ₽</h5>
                     <router-link :to="{name: 'products.show', params: {id: product.id}}" class="text-minor text-decoration-none">
-                        <span class="fw-semibold">{{ product.company.title }}</span> / {{ product.title }}
+                        <span class="fw-semibold">
+                            {{ product.company && product.company.title ? product.company.title : 'Без компании' }}
+                        </span>
+                        / {{ product.title }}
+
                     </router-link>
                     <div class="d-flex flex-grow-1">
                         <p class="text-main d-inline-block">

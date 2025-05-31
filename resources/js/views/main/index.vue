@@ -13,21 +13,21 @@
                         <div class="carousel-item active">
                             <a class="sliderLink" href="">
                                 <div class="sliderBlackoutDiv">
-                                    <img src="http://89.108.83.123/storage/images/images-for-slider/1300x300-(red).png" class="d-block w-100 sliderBlackoutImg" alt="...">
+                                    <img src="/storage/images/images-for-sliders/1.jpg" class="d-block w-100 sliderBlackoutImg" alt="...">
                                 </div>
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a class="sliderLink" href="">
                                 <div class="sliderBlackoutDiv">
-                                    <img src="http://89.108.83.123/storage/images/images-for-slider/1300x300-(blue).png" class="d-block w-100 sliderBlackoutImg" alt="...">
+                                    <img src="/storage/images/images-for-sliders/2.jpg" class="d-block w-100 sliderBlackoutImg" alt="...">
                                 </div>
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a class="sliderLink" href="">
                                 <div class="sliderBlackoutDiv">
-                                    <img src="http://89.108.83.123/storage/images/images-for-slider/1300x300-(green).png" class="d-block w-100 sliderBlackoutImg" alt="...">
+                                    <img src="/storage/images/images-for-sliders/3.jpg" class="d-block w-100 sliderBlackoutImg" alt="...">
                                 </div>
                             </a>
                         </div>
@@ -48,22 +48,22 @@
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(blue).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-1.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(blue).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-2.png" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(blue).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-3.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(blue).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-4.webp" alt="...">
                 </div>
 
             </div>
@@ -72,22 +72,22 @@
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(red).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-5.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(red).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-6.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(red).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-7.png" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(red).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/1-8.webp" alt="...">
                 </div>
 
 
@@ -103,22 +103,22 @@
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(green).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-1.jpg" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(green).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-2.jpg" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(green).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-3.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(green).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-4.webp" alt="...">
                 </div>
 
 
@@ -128,22 +128,22 @@
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(yellow).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-5.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(yellow).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-6.jpeg" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(yellow).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-7.webp" alt="...">
                 </div>
 
                 <div class="banner col-4 cursor-pointer">
                     <div class="banner-background"></div>
-                    <img class="banner-image" width="300" height="180" src="http://89.108.83.123/storage/images/images-for-banners/300x180-(yellow).png" alt="...">
+                    <img class="banner-image" width="300" height="180" src="/storage/images/images-for-sliders/2-8.webp" alt="...">
                 </div>
 
 

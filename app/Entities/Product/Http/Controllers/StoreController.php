@@ -29,10 +29,23 @@ class StoreController extends Controller
             unset($data['product_images']);
         }
 
+        // === Исправленная обработка content для валидного JSON ===
+        if (!isset($data['content']) || $data['content'] === null || $data['content'] === '' || $data['content'] === []) {
+            $data['content'] = '{}';
+        } elseif (is_array($data['content'])) {
+            $data['content'] = json_encode($data['content'], JSON_UNESCAPED_UNICODE);
+        } else {
+            $tryDecode = json_decode($data['content']);
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                $data['content'] = json_encode(['text' => $data['content']], JSON_UNESCAPED_UNICODE);
+            }
+            // если строка уже валидный JSON — оставляем как есть
+        }
+        // === Конец блока обработки content ===
+
         $product = Product::firstOrCreate([
             'vendor_code' => $data['vendor_code']
         ], $data);
-
 
         if (isset($productImages)) {
             foreach ($productImages as $productImage) {

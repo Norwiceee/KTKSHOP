@@ -34,7 +34,7 @@
 
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <h1><router-link to="/" class="nav-link">LOGO</router-link></h1>
+                        <h1><router-link to="/" class="nav-link">KTKSHOP</router-link></h1>
                     </li>
                 </ul>
 
@@ -205,7 +205,7 @@
         />
 
         <footer class="static-footer d-flex justify-content-center align-items-center flex-column py-5">
-            <div class="">powered by ke</div>
+            <div class="">Никита Бульба, г. Казань, 2025г.</div>
         </footer>
     </div>
 </template>

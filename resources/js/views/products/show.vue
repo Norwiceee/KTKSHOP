@@ -58,8 +58,9 @@
 
                 <div class="col-4">
                     <div class="d-flex justify-content-between align-items-center">
-                        <h3>{{ product.title }} - {{ product.company.title }}</h3>
-
+                        <h3>
+                            {{ product.title }} - {{ product.company?.title || 'Без компании' }}
+                        </h3>
                     </div>
                     <div class="mb-2 fw-semibold h5">{{ product.category.title }}</div>
 
