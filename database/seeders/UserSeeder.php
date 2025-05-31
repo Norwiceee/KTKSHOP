@@ -38,10 +38,10 @@ class UserSeeder extends Seeder
 
         User::insert([
             [
-                'name' => 'Mezuno',
+                'name' => 'Admin',
                 'surname' => '',
                 'patronymic' => '',
-                'email' => 'mekishido@gmail.com',
+                'email' => 'Admin@admin.ru',
                 'email_verified_at' => now(),
                 'is_admin' => 1,
                 'gender' => rand(1,2),
